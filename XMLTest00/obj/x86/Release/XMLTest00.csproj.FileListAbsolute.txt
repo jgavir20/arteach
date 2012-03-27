@@ -1,0 +1,5 @@
+C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\bin\Release\XMLTest00.exe
+C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\bin\Release\XMLTest00.pdb
+C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Release\XMLTest00.exe
+C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Release\XMLTest00.pdb

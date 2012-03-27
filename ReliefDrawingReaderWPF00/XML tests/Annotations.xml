@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<Annotations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Annotation>
+    <Id>fig5.13c_theta.wav</Id>
+    <Title>Ángulo theta</Title>
+    <Text>
+    </Text>
+    <XY>0.539123630672926,0.546687532603026</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_aceleracion.wav</Id>
+    <Title>Aceleración de m2 en la dirección del plano inclinado.</Title>
+    <Text>
+    </Text>
+    <XY>0.266823161189358,0.619718309859155</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_fuerza_m2g.wav</Id>
+    <Title>Aceleración de m2 en la dirección del plano inclinado.</Title>
+    <Text>
+    </Text>
+    <XY>0.673708920187793,0.78038601982264</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_fuerza_m2g_cos_theta.wav</Id>
+    <Title>Componente de la fuerza sobre m2 perpendicular al plano inclinado</Title>
+    <Text>
+    </Text>
+    <XY>0.601721439749609,0.63641105894627</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_fuerza_m2g_sen_theta.wav</Id>
+    <Title>Componente de la fuerza sobre m2 paralela al plano inclinado</Title>
+    <Text>
+    </Text>
+    <XY>0.60641627543036,0.845070422535211</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_fuerza_N.wav</Id>
+    <Title>Fuerza normal N sobre m2</Title>
+    <Text>
+    </Text>
+    <XY>0.382629107981221,0.217005738132499</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_fuerza_T.wav</Id>
+    <Title>Fuerza paralela T sobre m2</Title>
+    <Text>
+    </Text>
+    <XY>0.617370892018779,0.300469483568075</XY>
+  </Annotation>
+  <Annotation>
+    <Id>fig5.13c_intro.wav</Id>
+    <Title>Diagrama de cuerpo libre para m2</Title>
+    <Text>
+    </Text>
+    <XY>0.136932707355243,0.135628586332812</XY>
+  </Annotation>
+</Annotations>
