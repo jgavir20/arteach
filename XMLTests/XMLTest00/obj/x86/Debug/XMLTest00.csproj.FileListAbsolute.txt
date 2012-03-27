@@ -3,3 +3,5 @@ C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\bin\Debug\XMLTest00
 C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Debug\XMLTest00.exe
 C:\Users\juanfhj\Desktop\VibroTouch-multitouch-USB\XMLTest00\obj\x86\Debug\XMLTest00.pdb
+C:\src\arteach\XMLTests\XMLTest00\obj\x86\Debug\XMLTest00.exe
+C:\src\arteach\XMLTests\XMLTest00\obj\x86\Debug\XMLTest00.pdb

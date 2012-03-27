@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <string>
-    <id>Hello</id>
-  </string>
-  <string>
-    <id>World</id>
-  </string>
-</strings>
